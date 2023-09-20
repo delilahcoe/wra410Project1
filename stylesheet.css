@@ -1,0 +1,25 @@
+Body {
+    background-color: pink;
+    font-family:  "Helvetica", "Arial", sans-serif;
+    }
+    
+    
+    .wrapper{
+    background-color: white;
+    Padding: 2rem;
+    Max-width: 60%;
+    
+    
+    Margin-top: 4rem; 
+    Margin-right: auto;
+    Margin-bottom: 4rem;
+    Margin-left: auto;
+    
+    
+    }
+    
+    
+    Img {
+    max-width: 100%
+    }
+    
